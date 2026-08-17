@@ -1,277 +1,217 @@
-You are an expert GitHub README designer, technical writer, and DSA mentor.
+# 📊 Arrays — LeetCode DSA
 
-Create ONE FINAL, PROFESSIONAL, ATTRACTIVE, and PERMANENT README.md specifically for the "Arrays" folder of my LeetCode DSA Practice repository.
+### 🐍 Python | Data Structures & Algorithms | LeetCode
 
-IMPORTANT CONTEXT:
-- This README is ONLY for the Arrays topic.
-- I will create separate topic-wise README files for other DSA topics such as Strings, Linked List, Stack, Queue, Trees, Graphs, etc.
-- I will NOT create a separate README for every individual LeetCode problem.
-- There must be ONLY ONE README.md inside the Arrays folder.
-- Individual Array problems will be stored as Python (.py) solution files.
-- The README should act as a master/index page for the entire Arrays topic.
-- The README must be reusable as I continue adding more problems.
-- Do NOT make the README dependent on the current number of solved problems.
-- Do NOT create a README structure for individual problems.
-- Do NOT include fake problem counts, fake progress percentages, fake statistics, or claims of mastery.
-
-REPOSITORY CONTEXT:
-Repository: LeetCode-DSA
-Topic Folder: Arrays
-Language: Python
-Platform: LeetCode
-Purpose: Practice Data Structures & Algorithms, understand problem-solving patterns, improve optimization skills, and prepare for coding interviews and placements.
-
-CREATE THE README WITH THE FOLLOWING STRUCTURE:
-
-# 1. HEADER / HERO SECTION
-
-Create an attractive GitHub header:
-
-# 🧠 Arrays — LeetCode DSA Practice
-
-Add a short professional subtitle such as:
-
-"Building strong problem-solving skills through patterns, optimization, and consistent practice."
-
-Add minimal professional badges for:
-- Python
-- LeetCode
-- DSA
-- Arrays
-
-Do not overcrowd the header with badges.
+A focused collection of **LeetCode Array problems solved in Python**, covering fundamental concepts, problem-solving techniques, and optimized solutions.
 
 ---
 
-# 2. ABOUT ARRAYS
+## 🎯 About This Topic
 
-Write a concise explanation covering:
+Arrays are one of the most fundamental data structures in DSA.
 
-- What an Array is.
-- How arrays store elements.
-- Why arrays are one of the most fundamental DSA concepts.
-- Why Array problems are important for coding interviews.
-- What this folder represents in my DSA journey.
+This folder focuses exclusively on **Array-based problems**, with emphasis on:
 
-Keep the explanation beginner-friendly and technically correct.
+- Understanding Array fundamentals
+- Efficient problem solving
+- Writing clean Python solutions
+- Time & Space Complexity
+- Handling edge cases
+- Building interview-ready DSA skills
 
 ---
 
-# 3. WHAT I AM PRACTICING
-
-Create a clean section listing important Array concepts and patterns.
-
-Include:
+## 📚 Topics Covered
 
 - Array Traversal
-- Hashing / Hash Map
-- Two Pointers
-- Sliding Window
-- Prefix Sum
+- Array Indexing
+- Searching
 - Sorting
-- Binary Search
-- Greedy
-- Kadane's Algorithm
-- In-place Array Manipulation
-- Frequency Counting
+- Insertion & Deletion
+- Array Reversal
+- Array Manipulation
 - Subarrays
-- Matrix / 2D Arrays
-
-Do not say that all of these are already mastered.
-Present them as concepts being practiced and learned.
-
----
-
-# 4. PROBLEM-SOLVING APPROACH
-
-Explain my general approach to solving Array problems:
-
-1. Understand the problem carefully.
-2. Identify the input, output, and constraints.
-3. Think of a brute-force approach.
-4. Identify a suitable DSA pattern.
-5. Optimize the solution.
-6. Implement the solution in Python.
-7. Analyze Time Complexity.
-8. Analyze Space Complexity.
-9. Test edge cases.
-
-Keep this section concise and visually clean.
+- Prefix/Suffix Arrays
+- 1D Arrays
+- 2D Arrays / Matrix
+- In-place Array Operations
 
 ---
 
-# 5. ARRAY PATTERNS CHEAT SHEET
+## 🧠 Learning Approach
 
-Create a professional Markdown table:
+```text
+Understand → Implement → Optimize → Analyze → Practice
 
-| Pattern | Core Idea | Common Use |
+# 🧩 LeetCode Problems
+
+The Array problems are practiced progressively from **Easy → Medium → Hard**.
+
+---
+
+## 🟢 Easy
+
+| # | Problem | LeetCode |
 |---|---|---|
-
-Include:
-
-- Hash Map
-- Two Pointers
-- Sliding Window
-- Prefix Sum
-- Sorting
-- Binary Search
-- Greedy
-- Kadane's Algorithm
-
-Give a short, beginner-friendly explanation for each.
-
-Do not make the table unnecessarily large.
+| 1 | Two Sum | [1](https://leetcode.com/problems/two-sum/) |
+| 2 | Best Time to Buy and Sell Stock | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 3 | Contains Duplicate | [217](https://leetcode.com/problems/contains-duplicate/) |
+| 4 | Single Number | [136](https://leetcode.com/problems/single-number/) |
+| 5 | Majority Element | [169](https://leetcode.com/problems/majority-element/) |
+| 6 | Missing Number | [268](https://leetcode.com/problems/missing-number/) |
+| 7 | Move Zeroes | [283](https://leetcode.com/problems/move-zeroes/) |
+| 8 | Remove Duplicates from Sorted Array | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 
 ---
 
-# 6. COMPLEXITY QUICK REFERENCE
+## 🟡 Medium
 
-Create a small table explaining:
-
-| Complexity | Meaning | Example |
+| # | Problem | LeetCode |
 |---|---|---|
-
-Include:
-
-- O(1)
-- O(log n)
-- O(n)
-- O(n log n)
-- O(n²)
-
-Keep examples relevant to Array problems.
+| 1 | Container With Most Water | [11](https://leetcode.com/problems/container-with-most-water/) |
+| 2 | 3Sum | [15](https://leetcode.com/problems/3sum/) |
+| 3 | Next Permutation | [31](https://leetcode.com/problems/next-permutation/) |
+| 4 | Search in Rotated Sorted Array | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| 5 | Merge Intervals | [56](https://leetcode.com/problems/merge-intervals/) |
+| 6 | Set Matrix Zeroes | [73](https://leetcode.com/problems/set-matrix-zeroes/) |
+| 7 | Product of Array Except Self | [238](https://leetcode.com/problems/product-of-array-except-self/) |
+| 8 | Maximum Product Subarray | [152](https://leetcode.com/problems/maximum-product-subarray/) |
 
 ---
 
-# 7. ARRAY PROBLEMS
+## 🔴 Hard
 
-This is the MAIN INDEX section of the README.
+| # | Problem | LeetCode |
+|---|---|---|
+| 1 | Median of Two Sorted Arrays | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
+| 2 | First Missing Positive | [41](https://leetcode.com/problems/first-missing-positive/) |
+| 3 | Trapping Rain Water | [42](https://leetcode.com/problems/trapping-rain-water/) |
+| 4 | Largest Rectangle in Histogram | [84](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
 
-Create a single reusable table:
+---
+# 🧩 Core Array Techniques
 
-| # | LeetCode Problem | Difficulty | Pattern | Solution |
-|---|---|---|---|---|
+The following techniques are used to solve Array problems efficiently:
 
-IMPORTANT:
-
-- This table is ONLY an index of problems.
-- Do NOT create individual README files.
-- The Solution column should link directly to the corresponding Python file.
-- Use relative GitHub links.
-- Do not invent problem names or filenames that are not confirmed.
-- If exact current problem files are unknown, provide a clean placeholder/example and clearly structure it so I can add future problems easily.
-
-Use examples only when they are known:
-- Two Sum — Easy — Hash Map
-- Best Time to Buy and Sell Stock — Easy — One Pass / Greedy
-- Maximum Subarray — Medium — Kadane's Algorithm
-
-If including examples, make it clear that the table can be extended as more problems are solved.
+| Technique | Purpose |
+|---|---|
+| 🔍 Traversal | Visit and process elements |
+| 🔎 Searching | Find required elements |
+| 🔄 Sorting | Arrange elements efficiently |
+| ↔️ Two Pointers | Process elements using multiple indices |
+| 🪟 Sliding Window | Work with continuous subarrays |
+| ➕ Prefix Sum | Optimize range/subarray calculations |
+| 📈 Kadane's Algorithm | Find maximum subarray sum |
+| 🔁 In-Place Operations | Modify arrays with minimal extra space |
+| 🧮 Matrix Traversal | Process 2D Arrays |
 
 ---
 
-# 8. EDGE CASES I CONSIDER
+# ⏱️ Complexity Reference
 
-Create a concise checklist:
+| Operation | Time Complexity |
+|---|---:|
+| Access | O(1) |
+| Update | O(1) |
+| Traversal | O(n) |
+| Search | O(n) |
+| Insert | O(n) |
+| Delete | O(n) |
+| Reverse | O(n) |
+| Sorting | O(n log n) |
 
-- [ ] Empty array
-- [ ] Single element
-- [ ] Duplicate values
-- [ ] Negative numbers
-- [ ] Zero values
-- [ ] Already sorted array
-- [ ] Reverse sorted array
-- [ ] All elements are identical
-- [ ] Target/value does not exist
-- [ ] Very large input
-
-Explain briefly why edge cases matter.
+> Complexity may vary depending on the specific algorithm and operation.
 
 ---
 
-# 9. FOLDER STRUCTURE
+# 🎯 Problem-Solving Focus
 
-Show ONLY a topic-level structure.
+For every problem, the focus is on:
 
-Correct structure:
+```text
+Understand the Problem
+        ↓
+Identify the Approach
+        ↓
+Write Python Solution
+        ↓
+Test Edge Cases
+        ↓
+Analyze Complexity
+        ↓
+Optimize
+---
+# 📈 Progress Tracker
+
+| Category | Status |
+|---|---|
+| Array Fundamentals | ⬜ |
+| Searching | ⬜ |
+| Sorting | ⬜ |
+| Array Manipulation | ⬜ |
+| Subarrays | ⬜ |
+| Prefix / Suffix | ⬜ |
+| In-Place Operations | ⬜ |
+| 1D Arrays | ⬜ |
+| 2D Arrays / Matrix | ⬜ |
+| LeetCode Practice | ⬜ |
+
+---
+
+## 🏆 Difficulty Progress
+
+```text
+🟢 Easy    ⬜ ⬜ ⬜ ⬜ ⬜
+🟡 Medium  ⬜ ⬜ ⬜ ⬜ ⬜
+🔴 Hard    ⬜ ⬜ ⬜ ⬜ ⬜
 
 Arrays/
+│
 ├── README.md
-├── Two-Sum.py
-├── Best-Time-to-Buy-and-Sell-Stock.py
-├── Maximum-Subarray.py
+│
+├── Two-Sum/
+│   └── solution.py
+│
+├── Best-Time-to-Buy-and-Sell-Stock/
+│   └── solution.py
+│
+├── Contains-Duplicate/
+│   └── solution.py
+│
+├── Maximum-Subarray/
+│   └── solution.py
+│
+├── Merge-Intervals/
+│   └── solution.py
+│
 └── ...
 
-IMPORTANT:
-- There should be ONLY ONE README.md inside Arrays.
-- Do NOT show individual problem folders.
-- Do NOT show problem-specific README files.
-- Python files contain the actual LeetCode solutions.
+💡 Skills Developed
+🐍 Python Programming
+🧠 Problem Solving
+📊 Array Fundamentals
+⚡ Algorithm Optimization
+⏱️ Time & Space Complexity
+💻 Coding Interview Preparation
+🏆 Goals
 
-Mention that filenames may vary depending on the naming convention used.
+Understand the problem → Find the pattern → Write an efficient solution → Analyze complexity
 
----
+The goal is to build a strong foundation in Arrays and improve consistency through regular LeetCode practice.
 
-# 10. LEARNING FOCUS
+👩‍💻 Author
+Palak Raghuwanshi
 
-Create a short section explaining that my focus is on:
+B.Tech — Computer Science Engineering
 
-- Understanding the logic behind every solution.
-- Recognizing reusable DSA patterns.
-- Improving brute-force solutions into optimized solutions.
-- Writing clean Python code.
-- Understanding Time and Space Complexity.
-- Learning from mistakes and edge cases.
-- Becoming faster at identifying the right approach.
+Focused on:
 
-Do not exaggerate my skill level.
+Python • DSA • Problem Solving • Machine Learning
 
----
+⭐ Support
 
-# 11. FUTURE GOALS
+If you find this repository useful, consider giving it a ⭐ Star.
 
-Include:
+🚀 Keep Learning. Keep Solving. Keep Improving.
 
-- Solve more Array problems.
-- Improve pattern recognition.
-- Strengthen optimization skills.
-- Improve complexity analysis.
-- Handle harder Array problems.
-- Build strong foundations for advanced DSA topics.
-- Prepare for coding interviews and placements.
-
----
-
-# 12. CLOSING
-
-End with a short, clean line:
-
-"One problem at a time. One pattern at a time. 🚀"
-
-DESIGN REQUIREMENTS:
-
-- Professional GitHub appearance.
-- Attractive but not overly decorative.
-- Clean Markdown.
-- Use emojis sparingly.
-- Use tables where they improve readability.
-- No unnecessary HTML.
-- No unnecessary installation instructions.
-- No individual problem explanations.
-- No individual problem READMEs.
-- No fake statistics.
-- No fake progress bars.
-- No unnecessary motivational quotes.
-- No irrelevant technologies.
-- No repetitive content.
-- Keep it concise but complete.
-- The README should feel like a genuine CSE student's serious DSA portfolio.
-- It should remain useful even after dozens or hundreds of Array problems are added.
-
-MOST IMPORTANT:
-This is a TOPIC-LEVEL README for the Arrays folder, NOT a problem-level README.
-
-OUTPUT:
-Return ONLY the final complete README.md content inside ONE Markdown code block.
-Do not provide any explanation outside the README.
----
+Python → DSA → Practice → Consistency → Growth
