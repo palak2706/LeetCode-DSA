@@ -3,7 +3,7 @@
 
 A focused collection of LeetCode String problems solved in Python, covering fundamental concepts, problem-solving techniques, and optimized solutions.
 
-# 🎯 About This Topic
+## 🎯 About This Topic
 
 Strings are one of the most important data types in programming and a fundamental topic in DSA.
 
@@ -18,7 +18,7 @@ Time & Space Complexity
 Handling edge cases
 Coding interview preparation
 
-# 📚 Topics Covered
+## 📚 Topics Covered
 String Basics
 String Indexing
 String Traversal
@@ -35,12 +35,12 @@ String Reversal
 String Conversion
 1D String Problems
 
-# 🧠 Learning Approach
+## 🧠 Learning Approach
 Understand → Implement → Optimize → Analyze → Practice
 
 Every problem is practiced with a focus on understanding the logic rather than memorizing the solution.
 
-# 🗂️ Table of Contents
+## 🗂️ Table of Contents
 About This Topic
 Topics Covered
 LeetCode Problems
@@ -50,13 +50,13 @@ Folder Structure
 Skills Developed
 Author
 
-# 🧩 LeetCode Problems
+## 🧩 LeetCode Problems
 
 The String problems are practiced progressively from Easy → Medium → Hard.
 
 ## 🟢 Easy
 
-#	Problem	LeetCode
+###	Problem	LeetCode
 1	Roman to Integer	13
 2	Longest Common Prefix	14
 3	Valid Parentheses	20
@@ -70,7 +70,7 @@ The String problems are practiced progressively from Easy → Medium → Hard.
 
 ## 🟡 Medium
 
-#	Problem	LeetCode
+###	Problem	LeetCode
 1	Longest Substring Without Repeating Characters	3
 2	Longest Palindromic Substring	5
 3	Group Anagrams	49
@@ -84,7 +84,7 @@ The String problems are practiced progressively from Easy → Medium → Hard.
 
 ## 🔴 Hard
 
-#	Problem	LeetCode
+###	Problem	LeetCode
 1	Minimum Window Substring	76
 2	Regular Expression Matching	10
 3	Wildcard Matching	44
@@ -93,20 +93,21 @@ The String problems are practiced progressively from Easy → Medium → Hard.
 
 💡 Goal: Progress from basic String manipulation to complex interview-level String problems.
 
-# 🧩 Core String Techniques
+## 🧩 Core String Techniques
 
-Technique	Purpose
-🔄 Traversal	Process characters one by one
-✂️ Slicing	Extract parts of a String
-🔍 Searching	Find characters or substrings
-🔁 Reversal	Reverse String or character order
-🔤 Character Manipulation	Modify or process characters
-🪞 Palindrome	Check symmetric String patterns
-🔤 Anagram	Compare character composition
-🔗 Substring	Work with continuous characters
-📌 Subsequence	Work with ordered characters
+|Technique    |	Purpose |
+|-------------|---------|
+|🔄 **Traversal**|	Process characters one by one|
+|✂️ **Slicing**  |	Extract parts of a String|
+|🔍 **Searching**|	Find characters or substrings|
+|🔁 **Reversal** |	Reverse String or character order|
+|🔤 **Character Manipulation** |	Modify or process characters|
+|🪞 **Palindrome** |	Check symmetric String patterns|
+|🔤 **Anagram** |	Compare character composition|
+|🔗 **Substring** |	Work with continuous characters|
+|📌 **Subsequence** |	Work with ordered characters|
 
-# 🐍 Common Python String Operations
+## 🐍 Common Python String Operations
 len(s)
 s.lower()
 s.upper()
@@ -118,25 +119,27 @@ s.count()
 s.startswith()
 s.endswith()
 
-# Useful String Methods
+### Useful String Methods
 s[::-1]       # Reverse
 s[1:4]        # Slicing
 "".join(s)    # Join characters
 
-# ⏱️ Complexity Reference
-Operation	Typical Complexity
-Access Character	O(1)
-Traversal	O(n)
-Search	O(n)
-Comparison	O(n)
-Reverse	O(n)
-Slicing	O(k)
-Concatenation	O(n)*
+## ⏱️ Complexity Reference
+|Operation       |Typical Complexity |
+|----------------|-------------------|
+|Access Character| O(1) |
+|Traversal       | O(n) |
+|Search	         | O(n) |
+|Comparison      | O(n) |
+|Reverse         | O(n) |
+|Slicing	 | O(k) |
+|Concatenation   | O(n)*|
 
 Complexity can vary depending on the operation and implementation.
 
-# 🎯 Problem-Solving Focus
+## 🎯 Problem-Solving Focus
 
+```text
 For every String problem:
 
 Understand the Problem
@@ -152,30 +155,32 @@ Test Edge Cases
 Analyze Complexity
         ↓
 Optimize
-
+```
+---
 
 # 📈 Progress Tracker
-Category	Status
-String Basics	
-Indexing & Traversal	
-Slicing & Manipulation	
-Searching	
-Reversal	
-Palindrome	
-Anagram	
-Substrings	
-Subsequences	
-LeetCode Practice	
+|Category|	Status|
+|---------|------------|
+|String Basics	|       |
+|Indexing & Traversal|     |	
+|Slicing & Manipulation	|    |
+|Searching|                     |	
+|Reversal	|        |
+|Palindrome	|        |
+|Anagram	        |       |
+|Substrings	|       |
+|Subsequences	|       |
+|LeetCode Practice |	|
 
-# 🏆 Difficulty Progress
+## 🏆 Difficulty Progress
 
 🟢 Easy    
 🟡 Medium  
 🔴 Hard    
 
-# 📂 Folder Structure
-
-# Strings/
+## 📂 Folder Structure
+```text
+Strings/
 │
 ├── README.md
 │
@@ -192,10 +197,11 @@ LeetCode Practice
 │   └── solution.py
 │
 └── ...
-
+```
+---
 📌 README.md contains the overall Strings topic roadmap, while individual folders contain their respective LeetCode solutions.
 
-# 💡 Skills Developed
+## 💡 Skills Developed
 
 🐍 Python Programming
 🔤 String Manipulation
@@ -209,19 +215,19 @@ Understand → Implement → Optimize → Analyze → Improve
 
 The goal is to build a strong foundation in Strings and develop the ability to solve String-based problems independently.
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 Palak Raghuwanshi
 
 B.Tech — Computer Science Engineering
 
-# Focused on:
+## Focused on:
 
 Python • DSA • Problem Solving • Machine Learning
 
-# ⭐ Support
+## ⭐ Support
 
 If you find this repository useful, consider giving it a ⭐ Star.
 
-# 🚀 Keep Learning. Keep Solving. Keep Improving.
+**🚀 Keep Learning. Keep Solving. Keep Improving.**
 
 Python → DSA → Practice → Consistency → Growth
