@@ -89,7 +89,7 @@ The Array problems are practiced progressively from **Easy → Medium → Hard**
 | 4 | Largest Rectangle in Histogram | [84](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
 
 ---
-# 🧩 Core Array Techniques
+## 🧩 Core Array Techniques
 
 The following techniques are used to solve Array problems efficiently:
 
@@ -107,7 +107,7 @@ The following techniques are used to solve Array problems efficiently:
 
 ---
 
-# ⏱️ Complexity Reference
+## ⏱️ Complexity Reference
 
 | Operation | Time Complexity |
 |---|---:|
@@ -124,7 +124,7 @@ The following techniques are used to solve Array problems efficiently:
 
 ---
 
-# 🎯 Problem-Solving Focus
+## 🎯 Problem-Solving Focus
 
 For every problem, the focus is on:
 
@@ -142,7 +142,7 @@ Analyze Complexity
 Optimize
 ```
 ---
-# 📈 Progress Tracker
+## 📈 Progress Tracker
 
 | Category | Status |
 |---|---|
@@ -168,9 +168,10 @@ Optimize
 
 ```
 ---
+## 📂 Folder Structure
 
-
-# Arrays/
+```text
+Arrays/
 │
 ├── README.md
 │
@@ -190,9 +191,11 @@ Optimize
 │   └── solution.py
 │
 └── ...
+```
 ---
 
-💡 Skills Developed
+## 💡 Skills Developed
+
 🐍 Python Programming
 🧠 Problem Solving
 📊 Array Fundamentals
@@ -205,12 +208,12 @@ Understand the problem → Find the pattern → Write an efficient solution → 
 
 The goal is to build a strong foundation in Arrays and improve consistency through regular LeetCode practice.
 ---
-# 👩‍💻 Author
+## 👩‍💻 Author
 Palak Raghuwanshi
 
 B.Tech — Computer Science Engineering
 ---
-# Focused on:
+### Focused on:
 
 Python • DSA • Problem Solving • Machine Learning
 ---
@@ -218,7 +221,7 @@ Python • DSA • Problem Solving • Machine Learning
 
 If you find this repository useful, consider giving it a ⭐ Star.
 
-# 🚀 Keep Learning. Keep Solving. Keep Improving.
+**🚀 Keep Learning. Keep Solving. Keep Improving.**
 
 Python → DSA → Practice → Consistency → Growth
 ---
