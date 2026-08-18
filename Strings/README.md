@@ -1,9 +1,9 @@
-Strings — LeetCode DSA
+# Strings — LeetCode DSA
 🐍 Python | Data Structures & Algorithms | LeetCode
 
 A focused collection of LeetCode String problems solved in Python, covering fundamental concepts, problem-solving techniques, and optimized solutions.
 
-🎯 About This Topic
+# 🎯 About This Topic
 
 Strings are one of the most important data types in programming and a fundamental topic in DSA.
 
@@ -17,7 +17,8 @@ Writing clean Python solutions
 Time & Space Complexity
 Handling edge cases
 Coding interview preparation
-📚 Topics Covered
+
+# 📚 Topics Covered
 String Basics
 String Indexing
 String Traversal
@@ -33,12 +34,13 @@ Anagrams
 String Reversal
 String Conversion
 1D String Problems
-🧠 Learning Approach
+
+# 🧠 Learning Approach
 Understand → Implement → Optimize → Analyze → Practice
 
 Every problem is practiced with a focus on understanding the logic rather than memorizing the solution.
 
-🗂️ Table of Contents
+# 🗂️ Table of Contents
 About This Topic
 Topics Covered
 LeetCode Problems
@@ -48,11 +50,12 @@ Folder Structure
 Skills Developed
 Author
 
-🧩 LeetCode Problems
+# 🧩 LeetCode Problems
 
 The String problems are practiced progressively from Easy → Medium → Hard.
 
-🟢 Easy
+## 🟢 Easy
+
 #	Problem	LeetCode
 1	Roman to Integer	13
 2	Longest Common Prefix	14
@@ -64,7 +67,9 @@ The String problems are practiced progressively from Easy → Medium → Hard.
 8	Reverse String	344
 9	Length of Last Word	58
 10	Find the Difference	389
-🟡 Medium
+
+## 🟡 Medium
+
 #	Problem	LeetCode
 1	Longest Substring Without Repeating Characters	3
 2	Longest Palindromic Substring	5
@@ -76,7 +81,9 @@ The String problems are practiced progressively from Easy → Medium → Hard.
 8	Decode String	394
 9	Palindromic Substrings	647
 10	Simplify Path	71
-🔴 Hard
+
+## 🔴 Hard
+
 #	Problem	LeetCode
 1	Minimum Window Substring	76
 2	Regular Expression Matching	10
@@ -86,7 +93,8 @@ The String problems are practiced progressively from Easy → Medium → Hard.
 
 💡 Goal: Progress from basic String manipulation to complex interview-level String problems.
 
-🧩 Core String Techniques
+# 🧩 Core String Techniques
+
 Technique	Purpose
 🔄 Traversal	Process characters one by one
 ✂️ Slicing	Extract parts of a String
@@ -97,7 +105,8 @@ Technique	Purpose
 🔤 Anagram	Compare character composition
 🔗 Substring	Work with continuous characters
 📌 Subsequence	Work with ordered characters
-🐍 Common Python String Operations
+
+# 🐍 Common Python String Operations
 len(s)
 s.lower()
 s.upper()
@@ -108,11 +117,13 @@ s.find()
 s.count()
 s.startswith()
 s.endswith()
-Useful String Methods
+
+# Useful String Methods
 s[::-1]       # Reverse
 s[1:4]        # Slicing
 "".join(s)    # Join characters
-⏱️ Complexity Reference
+
+# ⏱️ Complexity Reference
 Operation	Typical Complexity
 Access Character	O(1)
 Traversal	O(n)
@@ -124,7 +135,7 @@ Concatenation	O(n)*
 
 Complexity can vary depending on the operation and implementation.
 
-🎯 Problem-Solving Focus
+# 🎯 Problem-Solving Focus
 
 For every String problem:
 
@@ -142,24 +153,29 @@ Analyze Complexity
         ↓
 Optimize
 
-📈 Progress Tracker
+
+# 📈 Progress Tracker
 Category	Status
-String Basics	⬜
-Indexing & Traversal	⬜
-Slicing & Manipulation	⬜
-Searching	⬜
-Reversal	⬜
-Palindrome	⬜
-Anagram	⬜
-Substrings	⬜
-Subsequences	⬜
-LeetCode Practice	⬜
-🏆 Difficulty Progress
-🟢 Easy    ⬜ ⬜ ⬜ ⬜ ⬜
-🟡 Medium  ⬜ ⬜ ⬜ ⬜ ⬜
-🔴 Hard    ⬜ ⬜ ⬜ ⬜ ⬜
-📂 Folder Structure
-Strings/
+String Basics	
+Indexing & Traversal	
+Slicing & Manipulation	
+Searching	
+Reversal	
+Palindrome	
+Anagram	
+Substrings	
+Subsequences	
+LeetCode Practice	
+
+# 🏆 Difficulty Progress
+
+🟢 Easy    
+🟡 Medium  
+🔴 Hard    
+
+# 📂 Folder Structure
+
+# Strings/
 │
 ├── README.md
 │
@@ -179,7 +195,8 @@ Strings/
 
 📌 README.md contains the overall Strings topic roadmap, while individual folders contain their respective LeetCode solutions.
 
-💡 Skills Developed
+# 💡 Skills Developed
+
 🐍 Python Programming
 🔤 String Manipulation
 🧠 Problem Solving
@@ -192,19 +209,19 @@ Understand → Implement → Optimize → Analyze → Improve
 
 The goal is to build a strong foundation in Strings and develop the ability to solve String-based problems independently.
 
-👩‍💻 Author
+# 👩‍💻 Author
 Palak Raghuwanshi
 
 B.Tech — Computer Science Engineering
 
-Focused on:
+# Focused on:
 
 Python • DSA • Problem Solving • Machine Learning
 
-⭐ Support
+# ⭐ Support
 
 If you find this repository useful, consider giving it a ⭐ Star.
 
-🚀 Keep Learning. Keep Solving. Keep Improving.
+# 🚀 Keep Learning. Keep Solving. Keep Improving.
 
 Python → DSA → Practice → Consistency → Growth
