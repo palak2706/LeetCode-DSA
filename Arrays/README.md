@@ -46,7 +46,7 @@ Understand → Implement → Optimize → Analyze → Practice
 # 🧩 LeetCode Problems
 
 The Array problems are practiced progressively from **Easy → Medium → Hard**.
-
+```
 ---
 
 ## 🟢 Easy
@@ -140,32 +140,37 @@ Test Edge Cases
 Analyze Complexity
         ↓
 Optimize
+```
 ---
 # 📈 Progress Tracker
 
 | Category | Status |
 |---|---|
-| Array Fundamentals | ⬜ |
-| Searching | ⬜ |
-| Sorting | ⬜ |
-| Array Manipulation | ⬜ |
-| Subarrays | ⬜ |
-| Prefix / Suffix | ⬜ |
-| In-Place Operations | ⬜ |
-| 1D Arrays | ⬜ |
-| 2D Arrays / Matrix | ⬜ |
-| LeetCode Practice | ⬜ |
+| Array Fundamentals 
+| Searching 
+| Sorting 
+| Array Manipulation 
+| Subarrays 
+| Prefix / Suffix 
+| In-Place Operations 
+| 1D Arrays 
+| 2D Arrays / Matrix 
+| LeetCode Practice 
 
 ---
 
 ## 🏆 Difficulty Progress
 
 ```text
-🟢 Easy    ⬜ ⬜ ⬜ ⬜ ⬜
-🟡 Medium  ⬜ ⬜ ⬜ ⬜ ⬜
-🔴 Hard    ⬜ ⬜ ⬜ ⬜ ⬜
+🟢 Easy    
+🟡 Medium  
+🔴 Hard    
 
-Arrays/
+```
+---
+
+
+# Arrays/
 │
 ├── README.md
 │
@@ -185,6 +190,7 @@ Arrays/
 │   └── solution.py
 │
 └── ...
+---
 
 💡 Skills Developed
 🐍 Python Programming
@@ -198,20 +204,21 @@ Arrays/
 Understand the problem → Find the pattern → Write an efficient solution → Analyze complexity
 
 The goal is to build a strong foundation in Arrays and improve consistency through regular LeetCode practice.
-
-👩‍💻 Author
+---
+# 👩‍💻 Author
 Palak Raghuwanshi
 
 B.Tech — Computer Science Engineering
-
-Focused on:
+---
+# Focused on:
 
 Python • DSA • Problem Solving • Machine Learning
-
-⭐ Support
+---
+## ⭐ Support
 
 If you find this repository useful, consider giving it a ⭐ Star.
 
-🚀 Keep Learning. Keep Solving. Keep Improving.
+# 🚀 Keep Learning. Keep Solving. Keep Improving.
 
 Python → DSA → Practice → Consistency → Growth
+---
