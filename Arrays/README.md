@@ -207,21 +207,20 @@ Arrays/
 Understand the problem → Find the pattern → Write an efficient solution → Analyze complexity
 
 The goal is to build a strong foundation in Arrays and improve consistency through regular LeetCode practice.
----
+
 ## 👩‍💻 Author
-Palak Raghuwanshi
+**Palak Raghuwanshi**
 
 B.Tech — Computer Science Engineering
----
-### Focused on:
+
+**Focused on:**
 
 Python • DSA • Problem Solving • Machine Learning
----
+
 ## ⭐ Support
 
 If you find this repository useful, consider giving it a ⭐ Star.
 
-**🚀 Keep Learning. Keep Solving. Keep Improving.**
+## 🚀 Keep Learning. Keep Solving. Keep Improving.
 
 Python → DSA → Practice → Consistency → Growth
----
