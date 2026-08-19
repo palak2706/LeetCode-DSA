@@ -11,7 +11,7 @@ A structured collection of **Binary Search concepts and LeetCode problems solved
 **Binary Search** is an efficient searching algorithm used primarily on **sorted or monotonic data**.
 
 Instead of checking every element one by one, Binary Search repeatedly divides the search space into half and eliminates the half that cannot contain the answer.
-
+---
 ### ⚡ Complexity Comparison
 
 | Searching Technique | Time Complexity |
@@ -86,8 +86,6 @@ Repeat
 Target Found / Search Space Empty
 ```
 
----
-
 ### 2️⃣ Boundary Search
 
 Used when we need to find a specific position or boundary instead of simply finding an element.
@@ -101,7 +99,6 @@ Common applications:
 - Lower Bound
 - Upper Bound
 
----
 
 ### 3️⃣ Binary Search in Rotated Arrays
 
@@ -116,7 +113,6 @@ Original:
 Rotated:
 [4, 5, 6, 7, 1, 2, 3]
 ```
----
 ### 4️⃣ Binary Search on Answer
 
 Instead of searching for an element, we search for the minimum or maximum possible answer.
@@ -174,7 +170,7 @@ def binary_search(nums, target):
     return -1
 
 ```
-    ---
+---
 ### 📌 Template Breakdown
 left → Starting index of the search space
 right → Ending index of the search space
@@ -193,6 +189,7 @@ Space Complexity → O(1)
 ```
 
 Each iteration eliminates approximately half of the remaining search space.
+
 ---
 
 ## 📚 Important Binary Search Concepts
@@ -209,7 +206,7 @@ right = len(nums) - 1
 
 ```
 After every comparison, a part of the search space is eliminated.
----
+
 ### 🔹 2. Middle Element
 
 The middle index is calculated using:
@@ -260,6 +257,7 @@ This is useful in certain boundary-based Binary Search problems.
 
 The correct condition depends on the specific problem and search-space definition.
 
+---
 ### ⚠️ Common Mistakes
 
 While implementing Binary Search, avoid these common mistakes:
@@ -273,6 +271,7 @@ While implementing Binary Search, avoid these common mistakes:
 ❌ Ignoring edge cases
 ❌ Returning the wrong boundary
 
+---
 ### 🧪 Edge Cases
 
 Always consider the following cases:
@@ -289,6 +288,7 @@ Rotated Sorted Array
 
 Testing edge cases helps ensure that the Binary Search implementation handles all possible inputs correctly.
 
+---
 ### 📈 Complexity Analysis
 
 Binary Search repeatedly divides the search space into approximately half.
@@ -313,6 +313,7 @@ For a recursive implementation, the auxiliary space can be:
 Space Complexity → O(log n)
 ```
 because of the recursive call stack.
+
 ---
 # 📚 LeetCode Practice
 
@@ -451,6 +452,7 @@ Target smaller than all elements
 Target greater than all elements
 Duplicate values
 Rotated arrays
+
 ### Step 7️⃣ — Analyze Complexity
 
 Always determine:
@@ -464,6 +466,7 @@ For standard iterative Binary Search:
 Time  → O(log n)
 Space → O(1)
 ```
+---
 ### 💡 Key Takeaways
 
 The most important concepts to remember are:
@@ -477,6 +480,8 @@ Boundary problems require extra attention to left and right.
 Rotated arrays require identifying the sorted half.
 Binary Search on Answer searches over possible answers instead of array elements.
 Correct edge-case handling is essential.
+
+---
 ### 🎯 Interview Preparation
 
 Binary Search is one of the most important DSA patterns for technical interviews.
@@ -494,6 +499,8 @@ Advanced Binary Search
 
 The goal is not only to memorize the Binary Search template, but to understand **when and why Binary Search can be applied.**
 
+---
+
 📂 Folder Structure
 ```text
 Binary Search/
@@ -510,6 +517,7 @@ Binary Search/
 ├── 153-find-minimum-in-rotated-sorted-array.py
 └── ...
 ```
+---
 
 ### 🚀 Progress Tracker
  Basic Binary Search
@@ -523,6 +531,8 @@ Binary Search/
  Search a 2D Matrix
  Binary Search on Answer
  Advanced Binary Search
+
+ ---
 ### ⭐ Practice Philosophy
 
 **Understand the pattern, not just the solution.**
@@ -540,13 +550,16 @@ Handle Boundaries
 Optimize the Solution
         ↓
 Analyze Complexity
+
 ```
+---
 ## 👩‍💻 Author
 
 **Palak Raghuwanshi**
 
 B.Tech — Computer Science & Engineering
 
+---
 ### 💻 Focus Areas
 Python
 Data Structures & Algorithms
@@ -554,8 +567,12 @@ LeetCode
 Problem Solving
 Git & GitHub
 
+---
+
 ### ⭐ Support
 
 If this repository helps you in your DSA journey, consider giving it a ⭐ on GitHub.
 
 **Keep Learning. Keep Solving. Keep Improving. 🚀**
+
+---
