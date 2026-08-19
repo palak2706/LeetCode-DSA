@@ -57,20 +57,25 @@ The String problems are practiced progressively from Easy → Medium → Hard.
 ## 🟢 Easy
 
 ###	Problem	LeetCode
-|1	|Roman to Integer	|13|
-|2	|Longest Common Prefix	|14|
-|3	|Valid Parentheses	|20|
-|4	|Valid Palindrome	|125|
-|5	|Valid Anagram	|242|
-|6	|First Unique Character in a String	|387|
-|7	|Ransom Note	|383|
-|8	|Reverse String	|344|
-|9	|Length of Last Word	|58|
-|10	|Find the Difference	|389|
+|S.No.|Problem   |       Problem Number|
+|-----|-----------------|---------------|
+|1|Roman to Integer	|13|
+|2|Longest Common Prefix|14|
+|3|Valid Parentheses	|20|
+|4|Valid Palindrome	|125|
+|5|Valid Anagram	|242|
+|6|First Unique Character in a String	|387|
+|7|Ransom Note	        |383|
+|8|Reverse String	|344|
+|9|Length of Last Word	|58|
+|10|Find the Difference	|389|
 
 ## 🟡 Medium
 
 ###	Problem	LeetCode
+
+|S.No.|Problem   |       Problem Number|
+|-----|-----------------|---------------|
 |1	|Longest Substring Without Repeating Characters	|3|
 |2	|Longest Palindromic Substring	|5|
 |3	|Group Anagrams	|49|
@@ -85,6 +90,9 @@ The String problems are practiced progressively from Easy → Medium → Hard.
 ## 🔴 Hard
 
 ###	Problem	LeetCode
+
+|S.No.|Problem   |       Problem Number|
+|-----|-----------------|---------------|
 |1	|Minimum Window Substring|	76|
 |2	|Regular Expression Matching|	10|
 |3	|Wildcard Matching|	44|
@@ -108,6 +116,8 @@ The String problems are practiced progressively from Easy → Medium → Hard.
 |📌 **Subsequence** |	Work with ordered characters|
 
 ## 🐍 Common Python String Operations
+|String Operation|
+|----------------|
 |len(s)|
 |s.lower()|
 |s.upper()|
@@ -120,6 +130,8 @@ The String problems are practiced progressively from Easy → Medium → Hard.
 |s.endswith()|
 
 ### Useful String Methods
+|Syntax  |    Method|
+|--------|----------|
 |s[::-1] |      # Reverse|
 |s[1:4]     |   # Slicing|
 |"".join(s)  |  # Join characters|
