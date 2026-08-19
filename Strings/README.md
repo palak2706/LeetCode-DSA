@@ -57,39 +57,39 @@ The String problems are practiced progressively from Easy → Medium → Hard.
 ## 🟢 Easy
 
 ###	Problem	LeetCode
-1	Roman to Integer	13
-2	Longest Common Prefix	14
-3	Valid Parentheses	20
-4	Valid Palindrome	125
-5	Valid Anagram	242
-6	First Unique Character in a String	387
-7	Ransom Note	383
-8	Reverse String	344
-9	Length of Last Word	58
-10	Find the Difference	389
+|1	|Roman to Integer	|13|
+|2	|Longest Common Prefix	|14|
+|3	|Valid Parentheses	|20|
+|4	|Valid Palindrome	|125|
+|5	|Valid Anagram	|242|
+|6	|First Unique Character in a String	|387|
+|7	|Ransom Note	|383|
+|8	|Reverse String	|344|
+|9	|Length of Last Word	|58|
+|10	|Find the Difference	|389|
 
 ## 🟡 Medium
 
 ###	Problem	LeetCode
-1	Longest Substring Without Repeating Characters	3
-2	Longest Palindromic Substring	5
-3	Group Anagrams	49
-4	String to Integer (atoi)	8
-5	Longest Repeating Character Replacement	424
-6	Find All Anagrams in a String	438
-7	Permutation in String	567
-8	Decode String	394
-9	Palindromic Substrings	647
-10	Simplify Path	71
+|1	|Longest Substring Without Repeating Characters	|3|
+|2	|Longest Palindromic Substring	|5|
+|3	|Group Anagrams	|49|
+|4	|String to Integer (atoi)	|8|
+|5	|Longest Repeating Character Replacement	|424|
+|6	|Find All Anagrams in a String	|438|
+|7	|Permutation in String	|567|
+|8	|Decode String	|394|
+|9	|Palindromic Substrings	|647|
+|10	|Simplify Path	|71|
 
 ## 🔴 Hard
 
 ###	Problem	LeetCode
-1	Minimum Window Substring	76
-2	Regular Expression Matching	10
-3	Wildcard Matching	44
-4	Edit Distance	72
-5	Distinct Subsequences	115
+|1	|Minimum Window Substring|	76|
+|2	|Regular Expression Matching|	10|
+|3	|Wildcard Matching|	44|
+|4	|Edit Distance	|72|
+|5	|Distinct Subsequences|	115|
 
 💡 Goal: Progress from basic String manipulation to complex interview-level String problems.
 
@@ -108,21 +108,21 @@ The String problems are practiced progressively from Easy → Medium → Hard.
 |📌 **Subsequence** |	Work with ordered characters|
 
 ## 🐍 Common Python String Operations
-len(s)
-s.lower()
-s.upper()
-s.strip()
-s.split()
-s.replace()
-s.find()
-s.count()
-s.startswith()
-s.endswith()
+|len(s)|
+|s.lower()|
+|s.upper()|
+|s.strip()|
+|s.split()|
+|s.replace()|
+|s.find()|
+|s.count()|
+|s.startswith()|
+|s.endswith()|
 
 ### Useful String Methods
-s[::-1]       # Reverse
-s[1:4]        # Slicing
-"".join(s)    # Join characters
+|s[::-1] |      # Reverse|
+|s[1:4]     |   # Slicing|
+|"".join(s)  |  # Join characters|
 
 ## ⏱️ Complexity Reference
 |Operation       |Typical Complexity |
@@ -216,11 +216,11 @@ Understand → Implement → Optimize → Analyze → Improve
 The goal is to build a strong foundation in Strings and develop the ability to solve String-based problems independently.
 
 ## 👩‍💻 Author
-Palak Raghuwanshi
+**Palak Raghuwanshi**
 
 B.Tech — Computer Science Engineering
 
-## Focused on:
+**Focused on:**
 
 Python • DSA • Problem Solving • Machine Learning
 
@@ -228,6 +228,6 @@ Python • DSA • Problem Solving • Machine Learning
 
 If you find this repository useful, consider giving it a ⭐ Star.
 
-**🚀 Keep Learning. Keep Solving. Keep Improving.**
+## 🚀 Keep Learning. Keep Solving. Keep Improving.
 
 Python → DSA → Practice → Consistency → Growth
