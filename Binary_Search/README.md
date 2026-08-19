@@ -10,7 +10,9 @@ A structured collection of **Binary Search concepts and LeetCode problems solved
 
 **Binary Search** is an efficient searching algorithm used primarily on **sorted or monotonic data**.
 
+
 Instead of checking every element one by one, Binary Search repeatedly divides the search space into half and eliminates the half that cannot contain the answer.
+
 ---
 ### ⚡ Complexity Comparison
 
@@ -178,6 +180,7 @@ mid → Middle index
 Compare nums[mid] with the target
 Eliminate half of the search space
 Continue until the target is found or the search space becomes empty
+
 ---
 
 ### ⏱️ Complexity
@@ -258,18 +261,18 @@ This is useful in certain boundary-based Binary Search problems.
 The correct condition depends on the specific problem and search-space definition.
 
 ---
-### ⚠️ Common Mistakes
+## ⚠️ Common Mistakes
 
 While implementing Binary Search, avoid these common mistakes:
 
-❌ Using Binary Search on an unsuitable search space
-❌ Incorrect calculation of mid
-❌ Forgetting +1 or -1 while updating boundaries
-❌ Using the wrong loop condition
-❌ Causing an infinite loop
-❌ Accessing an invalid index
-❌ Ignoring edge cases
-❌ Returning the wrong boundary
+- ❌ Using Binary Search on an unsuitable search space
+- ❌ Incorrect calculation of `mid`
+- ❌ Forgetting `+1` or `-1` while updating boundaries
+- ❌ Using the wrong loop condition
+- ❌ Causing an infinite loop
+- ❌ Accessing an invalid index
+- ❌ Ignoring edge cases
+- ❌ Returning the wrong boundary
 
 ---
 ### 🧪 Edge Cases
